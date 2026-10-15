@@ -77,7 +77,9 @@ Firefox 临时加载的附加组件通常会在浏览器关闭后失效，需要
 
 扩展需要读取用户明确选择的网页内容才能生成 HTML 快照。请只授权你信任的网站，并仅处理自己有权访问和保存的内容。
 
-https://github.com/719729765/ebpage-article-batch-saver/blob/main/2026-10-15_112310.webp
+##**截图**
+<img width="1401" height="1986" alt="图片" src="https://github.com/user-attachments/assets/09645017-d2f4-46ad-b44d-37fc98271aeb" />
+
 
 ## 隐私说明
 
