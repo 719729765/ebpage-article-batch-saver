@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://github.com/719729765/ebpage-article-batch-saver/nav/sitemap.xml
